@@ -1,2 +1,3 @@
 "Estrutura do login" 
 "Correcao de bug visual na release" 
+"Correcao critica do botao de login" 
